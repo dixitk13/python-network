@@ -13,3 +13,4 @@ while True:
         c.send("message")
     c.send('')
     c.close()
+    lol
